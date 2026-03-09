@@ -1,4 +1,4 @@
-## Análisis de los Parámetros desde la Economía
+## Análisis de los Parámetros ejemplo credito bancario
 
 La implementación de este perceptrón revela cómo los parámetros matemáticos se traducen directamente con ejemplo credito bancario:
 
